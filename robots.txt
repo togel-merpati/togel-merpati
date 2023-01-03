@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togel-merpati.github.io/sitemap.xml
